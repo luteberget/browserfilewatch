@@ -1,0 +1,12 @@
+[package]
+name = "browserfilewatch"
+version = "0.1.0"
+authors = ["Bjørnar Luteberget <luteberget@gmail.com>"]
+
+[dependencies]
+ws="*"
+webbrowser="*"
+notify="*"
+itertools="*"
+serde_json="*"
+structopt="*"
